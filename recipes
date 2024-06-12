@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+<h1> Odin's Recipe</h1>
+    <h1>Chicken, Avocado and Mango Salad</h1>
+    <a href="recipes/recipename.html">Recipe Title</a>
+
+    <img src="https://www.allrecipes.com/thmb/HTAOK3z3b2BGd6D4NpBWvq-SaV4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1119464-d7b2428fffdb4880bfa95887ee7b3c05.jpg" alt="">
+
+    <h2>Description</h2>
+    <p>This is a colorful and very tasty mix of chicken, mangos, and avocados in a spicy lime dressing.</p>
+    
+    <h2>Ingredients</h2>
+    <ul>
+        <li>2 tablespoons brown sugar</li>
+        <li>¼ cup water</li>
+        <li>⅓ cup lime juice</li>
+        <li>½ cup chili garlic sauce</li>
+        <li>4 cups shredded, cooked chicken</li>
+        <li>2 medium mangos - peeled, seeded and diced</li>
+        <li>2 avocados - peeled, pitted and diced</li>
+        <li>1 (10 ounce) package spring lettuce mix</li>
+    </ul>
+
+    <ul>
+        <li><a href="recipes/yourrecipe.html">Recipe Title 1</a></li>
+        <li><a href="recipes/yourrecipe.html">Recipe Title 2</a></li>
+        <li><a href="recipes/yourrecipe.html">Recipe Title 3</a></li>
+      </ul>
+
+</body>
+</html>
